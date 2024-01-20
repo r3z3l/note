@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ff5c03cbdf8b548a",
+        "id": "3f8220215b3a28f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f93e8de230c4260a",
+            "id": "d66a573cd664f751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information Gathering/Information Gathering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81d535eced0b0dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information Gathering/Active Information Gathering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering/Active Information Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering/Active Information Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Information Gathering/Active Information Gathering.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81d535eced0b0dc1",
+  "active": "d66a573cd664f751",
   "lastOpenFiles": [
-    "Information Gathering/Information Gathering.md",
+    "Untitled.canvas",
     "Information Gathering/Active Information Gathering.md",
+    "Information Gathering/Information Gathering.md",
     "Information Gathering/Passive Information Gathering.md",
     "Untitled.md",
     "Photos",
