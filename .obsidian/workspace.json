@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "09630b057f8027c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff5c03cbdf8b548a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f93e8de230c4260a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Gathering/Information Gathering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81d535eced0b0dc1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Gathering/Active Information Gathering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89abc5de617428ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "93a8851dfe6faf8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b853416c56717975",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c46567ca93b6d086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6582f7e2e275d79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f767155e4b140a44",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2c7b8b36eff9adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34ed5fc8eb9f09e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Information Gathering/Active Information Gathering.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d28395b8c888fb3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Information Gathering/Active Information Gathering.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f538bdb7940f7a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb4afa98d244a997",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Information Gathering/Active Information Gathering.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "81d535eced0b0dc1",
+  "lastOpenFiles": [
+    "Information Gathering/Information Gathering.md",
+    "Information Gathering/Active Information Gathering.md",
+    "Information Gathering/Passive Information Gathering.md",
+    "Welcome.md",
+    "Exploit.md",
+    "Basic Info/Introduction To Cybersecurity.md",
+    "Basic Info/CIA Triad.md",
+    "Pasted image 20240120234333.png",
+    "Information Gathering",
+    "Basic Info"
+  ]
+}
