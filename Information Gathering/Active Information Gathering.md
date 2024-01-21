@@ -51,3 +51,17 @@ when ran without *sudo* it uses _connect scan_ by default `-sT`
 windows:
 `Test-NetConnection -Port 445 192.168.50.151`
 
+## SMB Enumeration
+
+SMB stands for Server Message Block protocol always known for it's poor security because of its complex implementation. It is use to share files between nodes in a network. it uses shared folder network to share
+
+NetBIOS service listens on TCP 139, as well as several UDP ports, SMB (TCP 445) and NetBIOS are two separate protocols. NetBIOS is independent session layer protocol that allows a computer on local network whereas SMB earlier used to be dependend on NetBIOS but newer version can run without NetBIOS.
+
+both services go hand-in-hand so we can scan together
+`nmap -v -p 139,445 ip` will return Netbios and SMB port is open or not
+
+there are tools for NetBIOS like `nbtscan`
+`sudo nbtscan -r 192.168.50.0/24` will scan all NetBIOS on 192.168.50.0/24 range
+
+we can use `enum4linux` for further scanning
+
