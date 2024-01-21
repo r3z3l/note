@@ -65,3 +65,22 @@ there are tools for NetBIOS like `nbtscan`
 
 we can use `enum4linux` for further scanning
 
+
+## SMTP Enumeration
+
+SMTP stands Simple Mail Transfer Protocol
+It has two jobs VRFY request and EXPN request
+VRFY is use for verify existing users on mail server
+EXPN asks the server for the membarship of mailing server
+
+we can connect using `nc` and check whether user exists or not
+```bash
+kali@kali: ~$ nc -nv 192.168.192.8 25
+(UNKNOWN) [192.168.192.8] 25 (smtp) open
+220 mail ESMTP Postfix (Ubuntu)
+VRFY root
+252 2.0.0 root
+VRFY hk
+550 5.1.1 <hk>: Recipient address rejected: User unknown in local recipient table
+
+```
