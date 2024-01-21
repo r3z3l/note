@@ -31,3 +31,23 @@ we can scan port using nc. it's not for port scanning but we can send them packe
 `nc -nvv -w 1 -z ip port-range`: this will send SYN packet and try to make connection
 `nc -nvv -w 1 -z -u ip port`: this can be used for checking UDP port but if port is closed it send ICMP packet of destination not found. if there is firewall or any configuration then it might not send ICMP packets and it can show port is open
 
+Now, we can use many tools for scanning port like nmap, masscan or rustscan
+nmap can be run using with sudo or without sudo
+when ran with *sudo* it uses _stealth scan_ by default `-sS`
+when ran without *sudo* it uses _connect scan_ by default `-sT`
+
+`-sT` for TCP connect scan
+`-sS` for TCP stealth scan
+`-sU` for UDP scan
+`-sn` for network sweep we can give ip range
+`--top-ports=20` for scanning top 20 ports
+`-O` for OS scan it will only tell if it's 100% sure
+`--osscan-guess` it will guess os whether foudn or not
+`-oG` for saving file
+`-A` for running various scan
+`-sV` for only just banners
+
+
+windows:
+`Test-NetConnection -Port 445 192.168.50.151`
+
