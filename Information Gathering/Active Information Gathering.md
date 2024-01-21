@@ -23,3 +23,11 @@ We have two famous tools:
 		`dnsrecon -d megacorpone.com -D ~/brute.txt -t brt` for running brute force scan on megacorpone.com
 - **DNSEnum**
 		`dnsenum megacorpone.com` to DNS scan on megacorpone.com 
+
+
+## TCP/UDP Port Scanning
+we can scan port using nc. it's not for port scanning but we can send them packets for connection and check whether port is open or not
+
+`nc -nvv -w 1 -z ip port-range`: this will send SYN packet and try to make connection
+`nc -nvv -w 1 -z -u ip port`: this can be used for checking UDP port but if port is closed it send ICMP packet of destination not found. if there is firewall or any configuration then it might not send ICMP packets and it can show port is open
+
