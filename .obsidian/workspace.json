@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "231b1ec5c91f3c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vulnerability Scanning/Nessus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerability Scanning/Vulnerability Scanning.md",
+                "file": "Vulnerability Scanning/Nessus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerability Scanning/Vulnerability Scanning.md",
+                "file": "Vulnerability Scanning/Nessus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerability Scanning/Vulnerability Scanning.md"
+                "file": "Vulnerability Scanning/Nessus.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b853416c56717975",
+  "active": "231b1ec5c91f3c46",
   "lastOpenFiles": [
-    "Information Gathering/Active Information Gathering.md",
     "Vulnerability Scanning/Vulnerability Scanning.md",
+    "Vulnerability Scanning/Nessus.md",
+    "Information Gathering/Active Information Gathering.md",
     "Vulnerability Scanning",
     "Information Gathering/Information Gathering.md",
     "Untitled.canvas",
