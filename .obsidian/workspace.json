@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84cf6518cd93b620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vulnerability Scanning/Vulnerability Scanning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information Gathering/Active Information Gathering.md",
+                "file": "Vulnerability Scanning/Vulnerability Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information Gathering/Active Information Gathering.md",
+                "file": "Vulnerability Scanning/Vulnerability Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information Gathering/Active Information Gathering.md"
+                "file": "Vulnerability Scanning/Vulnerability Scanning.md"
               }
             }
           }
@@ -146,13 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d66a573cd664f751",
+  "active": "b853416c56717975",
   "lastOpenFiles": [
-    "Information Gathering/Information Gathering.md",
     "Information Gathering/Active Information Gathering.md",
+    "Vulnerability Scanning/Vulnerability Scanning.md",
+    "Vulnerability Scanning",
+    "Information Gathering/Information Gathering.md",
     "Untitled.canvas",
     "Information Gathering/Passive Information Gathering.md",
-    "Untitled.md",
     "Photos",
     "Welcome.md",
     "Exploit.md",
