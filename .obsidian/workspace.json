@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f767155e4b140a44",
@@ -183,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac0c5326e8f96c6b",
+  "active": "b853416c56717975",
   "lastOpenFiles": [
     "Common Web Application Attacks/Remote File Inclusion.md",
     "Common Web Application Attacks/File Inclusion Vulnerabilities.md",
