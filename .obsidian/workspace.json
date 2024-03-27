@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerability Scanning/Nmap.md",
+                "file": "Common Web Application Attacks/Directory Traversals.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerability Scanning/Nmap.md",
+                "file": "Common Web Application Attacks/Directory Traversals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerability Scanning/Nmap.md",
+                "file": "Common Web Application Attacks/Directory Traversals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerability Scanning/Nmap.md"
+                "file": "Common Web Application Attacks/Directory Traversals.md"
               }
             }
           }
@@ -185,8 +185,10 @@
   },
   "active": "ac0c5326e8f96c6b",
   "lastOpenFiles": [
-    "Vulnerability Scanning/Vulnerability Scanning.md",
     "Vulnerability Scanning/Nmap.md",
+    "Common Web Application Attacks/Directory Traversals.md",
+    "Common Web Application Attacks",
+    "Vulnerability Scanning/Vulnerability Scanning.md",
     "Vulnerability Scanning/Nessus.md",
     "Information Gathering/Active Information Gathering.md",
     "Vulnerability Scanning",
