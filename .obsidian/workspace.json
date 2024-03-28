@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exploit.md",
+                "file": "Common Web Application Attacks/File Upload Vulnerabilites.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f767155e4b140a44",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exploit.md",
+                "file": "Common Web Application Attacks/File Upload Vulnerabilites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exploit.md",
+                "file": "Common Web Application Attacks/File Upload Vulnerabilites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exploit.md"
+                "file": "Common Web Application Attacks/File Upload Vulnerabilites.md"
               }
             }
           }
@@ -186,6 +185,9 @@
   },
   "active": "ac0c5326e8f96c6b",
   "lastOpenFiles": [
+    "Exploit.md",
+    "Common Web Application Attacks/File Upload Vulnerabilites.md",
+    "Untitled",
     "2024-03-28.md",
     "Untitled.canvas",
     "Common Web Application Attacks/Remote File Inclusion.md",
@@ -201,7 +203,6 @@
     "Vulnerability Scanning",
     "Photos",
     "Welcome.md",
-    "Exploit.md",
     "Basic Info/Introduction To Cybersecurity.md",
     "Basic Info/CIA Triad.md",
     "Photos/Pasted image 20240120234333.png",
