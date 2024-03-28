@@ -184,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b853416c56717975",
+  "active": "ac0c5326e8f96c6b",
   "lastOpenFiles": [
+    "2024-03-28.md",
+    "Untitled.canvas",
     "Common Web Application Attacks/Remote File Inclusion.md",
     "Common Web Application Attacks/File Inclusion Vulnerabilities.md",
     "Common Web Application Attacks/Directory Traversals.md",
@@ -197,7 +199,6 @@
     "Vulnerability Scanning/Vulnerability Scanning.md",
     "Vulnerability Scanning/Nessus.md",
     "Vulnerability Scanning",
-    "Untitled.canvas",
     "Photos",
     "Welcome.md",
     "Exploit.md",
