@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md",
+                "file": "Exploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md",
+                "file": "Exploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md",
+                "file": "Exploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md"
+                "file": "Exploit.md"
               }
             }
           }
@@ -185,8 +185,8 @@
   },
   "active": "ac0c5326e8f96c6b",
   "lastOpenFiles": [
-    "Common Web Application Attacks/File Upload Vulnerabilites.md",
     "Common Web Application Attacks/Command Injection.md",
+    "Common Web Application Attacks/File Upload Vulnerabilites.md",
     "Exploit.md",
     "Untitled",
     "2024-03-28.md",
