@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md",
+                "file": "SQL Injection Attacks/DB Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md",
+                "file": "SQL Injection Attacks/DB Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md",
+                "file": "SQL Injection Attacks/DB Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Web Application Attacks/Command Injection.md"
+                "file": "SQL Injection Attacks/DB Types.md"
               }
             }
           }
@@ -183,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b853416c56717975",
+  "active": "ac0c5326e8f96c6b",
   "lastOpenFiles": [
+    "Common Web Application Attacks/Command Injection.md",
+    "SQL Injection Attacks/DB Types.md",
     "Exploit.md",
     "Information Gathering/Information Gathering.md",
     "Information Gathering/Passive Information Gathering.md",
@@ -192,7 +194,6 @@
     "Vulnerability Scanning/Vulnerability Scanning.md",
     "Vulnerability Scanning/Nessus.md",
     "Vulnerability Scanning/Nmap.md",
-    "Common Web Application Attacks/Command Injection.md",
     "Common Web Application Attacks/File Upload Vulnerabilites.md",
     "SQL Injection Attacks",
     "2024-03-28.md",
