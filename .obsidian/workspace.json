@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Injection Attacks/DB Types.md",
+                "file": "SQL Injection Attacks/SQLi.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Injection Attacks/DB Types.md",
+                "file": "SQL Injection Attacks/SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Injection Attacks/DB Types.md",
+                "file": "SQL Injection Attacks/SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Injection Attacks/DB Types.md"
+                "file": "SQL Injection Attacks/SQLi.md"
               }
             }
           }
@@ -186,7 +186,7 @@
   "active": "ac0c5326e8f96c6b",
   "lastOpenFiles": [
     "Common Web Application Attacks/Command Injection.md",
-    "SQL Injection Attacks/DB Types.md",
+    "SQL Injection Attacks/SQLi.md",
     "Exploit.md",
     "Information Gathering/Information Gathering.md",
     "Information Gathering/Passive Information Gathering.md",
